@@ -1,9 +1,9 @@
 {
   "release_id": "VR-2026-11",
   "dataset_name": "verdant-syntax-pairs",
-  "status": "cleared",
-  "license": "apache-2.0",
-  "license_basis": "data",
-  "validation_region": "na-east",
-  "validation_bundle_total_usd": 8650
+  "status": "pending",
+  "license": null,
+  "license_basis": null,
+  "validation_region": null,
+  "validation_bundle_total_usd": null
 }
