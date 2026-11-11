@@ -1,0 +1,22 @@
+{
+  "title": "2026 consumer price snapshot (manufacturer suggested retail, USD)",
+  "captured_at": "2026-10-28",
+  "regions": {
+    "na-east": {
+      "slate_x7_pen_display_256gb": 8650,
+      "precision_stylus_pro": 140
+    },
+    "eu-central": {
+      "slate_x7_pen_display_256gb": 8600,
+      "precision_stylus_pro": 180
+    },
+    "apac-south": {
+      "slate_x7_pen_display_256gb": 8840,
+      "precision_stylus_pro": 125
+    },
+    "latam-west": {
+      "slate_x7_pen_display_256gb": 8730,
+      "precision_stylus_pro": 170
+    }
+  }
+}

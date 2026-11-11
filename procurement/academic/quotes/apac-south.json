@@ -1,0 +1,15 @@
+{
+  "region": "apac-south",
+  "reseller": "Kestrel Education Supply",
+  "programme": "Campus Academic Program 2026",
+  "programme_year": 2026,
+  "currency": "USD",
+  "quote_id": "CAP-26-AP-0731",
+  "items": {
+    "slate_x7_pen_display_256gb": {
+      "sku": "SLX7-256",
+      "academic_price_usd": 8720
+    }
+  },
+  "accessory_addendum": "addenda/apac-south.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "syntaxledger/syntax-grade-corpus",
+  "license": "apache-2.0",
+  "configs": [
+    {
+      "name": "syntax-grade",
+      "license": "apache-2.0",
+      "features": [
+        "id",
+        "prompt",
+        "response",
+        "source_doc"
+      ]
+    },
+    {
+      "name": "syntax-raw",
+      "license": "cc-by-sa-4.0",
+      "features": [
+        "doc_id",
+        "text",
+        "per_file_license"
+      ]
+    }
+  ],
+  "derived_from": "registry/openweb-mosaic/"
+}

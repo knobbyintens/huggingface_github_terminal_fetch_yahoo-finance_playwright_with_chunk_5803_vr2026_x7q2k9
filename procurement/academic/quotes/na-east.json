@@ -1,0 +1,15 @@
+{
+  "region": "na-east",
+  "reseller": "Northline Campus Systems",
+  "programme": "Campus Academic Program 2026",
+  "programme_year": 2026,
+  "currency": "USD",
+  "quote_id": "CAP-26-NA-0417",
+  "items": {
+    "slate_x7_pen_display_256gb": {
+      "sku": "SLX7-256",
+      "academic_price_usd": 8550
+    }
+  },
+  "accessory_addendum": "addenda/na-east.json"
+}

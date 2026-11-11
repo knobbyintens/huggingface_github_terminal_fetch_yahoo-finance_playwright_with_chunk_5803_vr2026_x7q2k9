@@ -1,0 +1,15 @@
+{
+  "region": "latam-west",
+  "reseller": "Andina Academic Systems",
+  "programme": "Campus Academic Program 2026",
+  "programme_year": 2026,
+  "currency": "USD",
+  "quote_id": "CAP-26-LA-0819",
+  "items": {
+    "slate_x7_pen_display_256gb": {
+      "sku": "SLX7-256",
+      "academic_price_usd": 8610
+    }
+  },
+  "accessory_addendum": "addenda/latam-west.json"
+}

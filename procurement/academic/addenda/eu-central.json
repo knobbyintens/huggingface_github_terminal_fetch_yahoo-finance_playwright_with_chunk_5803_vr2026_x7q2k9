@@ -1,0 +1,13 @@
+{
+  "region": "eu-central",
+  "programme": "Campus Academic Program 2026",
+  "programme_year": 2026,
+  "currency": "USD",
+  "approved_accessories": {
+    "precision_stylus_pro": {
+      "sku": "PST-PRO",
+      "academic_price_usd": 160
+    }
+  },
+  "note": "Accessory programme pricing applies only when the accessory is ordered with a display system on the same requisition."
+}

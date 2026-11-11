@@ -1,0 +1,15 @@
+{
+  "region": "eu-central",
+  "reseller": "Mittelbach Lehrmittel",
+  "programme": "Campus Academic Program 2026",
+  "programme_year": 2026,
+  "currency": "USD",
+  "quote_id": "CAP-26-EU-0512",
+  "items": {
+    "slate_x7_pen_display_256gb": {
+      "sku": "SLX7-256",
+      "academic_price_usd": 8500
+    }
+  },
+  "accessory_addendum": "addenda/eu-central.json"
+}

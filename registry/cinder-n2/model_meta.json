@@ -1,0 +1,7 @@
+{
+  "id": "cinder/Cinder-N2-Small",
+  "license": "other",
+  "license_name": "Cinder Open Model License",
+  "parameters": "2.4B",
+  "context_window": 8192
+}
