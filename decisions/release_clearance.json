@@ -1,3 +1,33 @@
 {
-  "status": "awaiting-signoff"
+  "release_id": "VR-2026-11",
+  "chosen_license": "apache-2.0",
+  "chosen_basis": "data",
+  "rejected": [
+    {
+      "id": "Cinder Open Model License",
+      "why": "The model licence governs use of the weights only: its Outputs clause disclaims any rights in generated text and its Training Data clause does not license the data, so it confers no licence on this dataset."
+    },
+    {
+      "id": "other",
+      "why": "The 'other' tag on the model card and on the crawl collection is not a reusable dataset licence id; the crawl terms preserve per-document licences instead of licensing the collection as a whole."
+    },
+    {
+      "id": "cc-by-sa-4.0",
+      "why": "This licence applies only to the raw configuration of the ancestor, and the sample rows match the curated syntax-grade configuration row-for-row."
+    }
+  ],
+  "evidence": [
+    "registry/syntaxledger-grade-corpus/README.md: license: apache-2.0",
+    "registry/syntaxledger-grade-corpus/README.md: | `syntax-grade` | curated prompt/response pairs with reviewed grammar grades | Apache-2.0 |",
+    "data/sample_pairs.jsonl matches registry/syntaxledger-grade-corpus/data/syntax-grade.jsonl row-for-row (6 of 6 rows)",
+    "registry/cinder-n2/LICENSE.md section 3: Licensor does not claim any ownership, copyright or other rights in Outputs",
+    "registry/cinder-n2/LICENSE.md section 4: Training Data is not licensed to you under this License",
+    "procurement/academic/quotes/na-east.json + procurement/academic/addenda/na-east.json: academic bundle 8550 + 100 = 8650 USD, the lowest academic total"
+  ],
+  "validation_bundle": {
+    "region": "na-east",
+    "slate_x7_usd": 8550,
+    "stylus_pro_usd": 100,
+    "total_usd": 8650
+  }
 }
